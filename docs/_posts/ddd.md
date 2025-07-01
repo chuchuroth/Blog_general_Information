@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "NotebookLM"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
+
 好的，根据您提供的笔记和我们的对话历史，以下是对笔记内容的总结和提炼，以一篇正式文章的形式呈现：
 
 ---
