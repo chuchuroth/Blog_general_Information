@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
 在人工智能加速发展的时代，**从政治和技术双重角度出发，提升打击国际犯罪组织的全新范式**可以围绕以下几个创新方向展开：
 
 **1. 全球AI情报协作网络**
