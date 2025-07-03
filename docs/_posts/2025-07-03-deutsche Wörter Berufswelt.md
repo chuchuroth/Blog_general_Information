@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "deutsche Wörter Berufswelt"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
+
 Im Arbeitsfeld (Berufswelt) gibt es viele Wörter auf C1-Niveau, die häufiger verwendet werden, insbesondere in Meetings, E-Mails, Berichten oder Gesprächen mit Kollegen und Vorgesetzten. Ich werde dir eine Liste mit 100 Wörtern (Verben, Nomen, Adjektive) zusammenstellen, die im Arbeitskontext relevant und oft genutzt werden. Jedes Wort kommt wieder mit einem Beispielsatz, um den typischen Gebrauch zu zeigen. Die Auswahl berücksichtigt sowohl formelle als auch praktische Sprache, die in Büros, Projekten oder Verhandlungen üblich ist.
 
 
