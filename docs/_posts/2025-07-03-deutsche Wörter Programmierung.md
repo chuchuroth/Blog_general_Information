@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "deutsche Wörter Programmierung"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
+
 Hier ist eine Liste mit 100 Wörtern, die speziell in der Programmierung häufig verwendet werden. Sie umfasst Verben, Nomen und Adjektive, die für Softwareentwicklung, Coding und verwandte Tätigkeiten relevant sind. Die Begriffe sind auf C1-Niveau abgestimmt und kommen mit Beispielsätzen, um ihren Gebrauch im Kontext zu zeigen. Die Liste ist besonders nützlich für Programmierer, die mit Sprachen wie Python, Java, C++ oder Webentwicklung (HTML, CSS, JavaScript) arbeiten.
 
 
