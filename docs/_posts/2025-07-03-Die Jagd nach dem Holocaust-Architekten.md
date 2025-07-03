@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Die Jagd nach dem Holocaust-Architekten"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
+
 # Die Jagd nach dem Holocaust-Architekten
 
 
