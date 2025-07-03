@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "deutsche Wörter IT"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
+
 Hier ist eine Liste mit 100 Wörtern, die in der IT-Branche häufig verwendet werden. Diese Begriffe sind spezifisch für den IT-Kontext und umfassen Verben, Nomen und Adjektive, die in Bereichen wie Softwareentwicklung, Netzwerke, IT-Sicherheit und Cloud-Computing relevant sind. Jedes Wort wird mit einem Beispielsatz geliefert, um den typischen Gebrauch zu verdeutlichen. Die Liste ist auf C1-Niveau abgestimmt, also fortgeschritten, aber praxisnah.
 
 
