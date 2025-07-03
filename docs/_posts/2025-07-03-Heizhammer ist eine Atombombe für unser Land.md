@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Heizhammer ist eine Atombombe für unser Land"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
 
 # Heizhammer ist eine Atombombe für unser Land
 
