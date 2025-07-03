@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Apple's Complicity in Chinese Authoritarianism"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
+
 # Apple's Complicity in Chinese Authoritarianism
 
 Apple gibt sich gern als fortschrittliches Unternehmen in einer digitalen Welt. Seit Jahren schreibt der Konzern Datenschutz und Privatsphäre ganz groß. Wir wollen ja nicht, dass unsere Daten in die falschen Hände geraten. Gut, dass Apple uns dabei hilft, unsere Daten zu schützen und sie nicht an dubiose Werbeunternehmen oder so weiterverkauft. Dem Konzern scheint echt viel dran zu liegen, die Rechte von uns Nutzern zu wahren. Naja, es sei denn du lebst in China.
