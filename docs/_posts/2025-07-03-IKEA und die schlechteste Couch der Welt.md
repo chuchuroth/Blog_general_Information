@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "IKEA und die schlechteste Couch der Welt"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
+
 # IKEA und die schlechteste Couch der Welt
 
 
