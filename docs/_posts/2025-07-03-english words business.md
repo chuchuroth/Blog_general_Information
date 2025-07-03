@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "english words business"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
+
 Here are example sentences for each of the **100 business verbs** you requested:  
 
 
