@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "deutsche Wörter Alltagsleben"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
 
 Hier ist eine Liste mit 100 deutschen Wörtern auf C1-Niveau, die im Alltagsleben häufiger verwendet werden. Ich habe Verben, Nomen und Adjektive eingemischt, die in alltäglichen Situationen – wie Gesprächen mit Freunden, Einkaufen, Arbeit oder Freizeit – nützlich sind. Jedes Wort kommt mit einem Beispielsatz, um den Kontext zu zeigen. Die Liste ist praktisch orientiert und enthält Wörter, die über grundlegendes B2 hinausgehen, aber dennoch im Alltag relevant sind.
 
