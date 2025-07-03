@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "deutsche Witz"
+date:   2025-07-01 14:56:51 +0200
+categories: jekyll update
+---
+
+
 Das ist eine tolle Idee! Humor ist ein schöner Weg, um eine Kultur besser zu verstehen. Deutsche Witze sind oft wortspielerisch, manchmal ein bisschen trocken oder sogar „flach“ – also mit Absicht sehr einfach. Hier sind ein paar typische deutsche Witze:
 
 ---
