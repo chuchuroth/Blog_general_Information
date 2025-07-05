@@ -10,7 +10,7 @@ Im Arbeitsfeld (Berufswelt) gibt es viele Wörter auf C1-Niveau, die häufiger v
 
 
 
-#### ** Liste:  C1-Wörter im Arbeitsfeld**
+#### **Liste:  C1-Wörter im Arbeitsfeld**
 
 ### Verben (40)
 
