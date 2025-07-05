@@ -31,9 +31,9 @@ Hier ist ein kleiner Vorgeschmack mit 10 Beispielen für C1-Wörter, die oft in 
 
 Eine vollständige Liste mit 500 C1-Niveau deutschen Wörtern inklusive Verben, Nomen und Adjektiven hier direkt bereitzustellen, würde den Rahmen sprengen, da das sehr umfangreich ist. Stattdessen werde ich dir eine repräsentative Auswahl von 50 Wörtern (verteilt auf Verben, Nomen und Adjektive) geben, die typisch für das C1-Niveau sind, und danach detaillierte Lernstrategien anbieten, wie du deinen Wortschatz auf diesem Niveau erweitern kannst. Wenn du eine vollständige Liste von 500 Wörtern möchtest, könnte ich dir auch empfehlen, wie du diese selbst zusammenstellen oder finden kannst.
 
-+  **Auswahl von 50 C1-Niveau deutschen Wörtern**
+####  **Auswahl von 50 C1-Niveau deutschen Wörtern**
 
-Verben (20)
+### Verben (20)
 
 1. **abwägen** – to weigh up, consider carefully
 2. **anregen** – to stimulate, encourage
@@ -56,7 +56,7 @@ Verben (20)
 19. **vermitteln** – to convey, mediate
 20. **voraussetzen** – to presuppose, assume
 
- Nomen (20)
+### Nomen (20)
 
 1. **die Absicht** – intention
 2. **die Anforderung** – requirement
@@ -79,7 +79,7 @@ Verben (20)
 19. **die Voraussetzung** – prerequisite
 20. **die Zuständigkeit** – responsibility, jurisdiction
 
- Adjektive (10)
+### Adjektive (10)
 
 1. **anspruchsvoll** – demanding, sophisticated
 2. **ausreichend** – sufficient
@@ -96,47 +96,47 @@ Verben (20)
 
 ---
 
-+ **Lernstrategien für den C1-Wortschatz**
+#### **Lernstrategien für den C1-Wortschatz**
 
 Um den Wortschatz auf C1-Niveau effektiv zu lernen und anzuwenden, sind hier bewährte Strategien:
 
- 1. Kontextbasiertes Lernen
+#### 1. Kontextbasiertes Lernen
 
 - **Warum?** C1-Wörter sind oft abstrakt oder kontextabhängig. Sie isoliert zu lernen, ist weniger effektiv.
 - **Wie?** Lies Artikel aus deutschen Zeitungen (z. B. *Die Zeit*, *Frankfurter Allgemeine Zeitung*) oder schaue Nachrichten (z. B. *Tagesschau*). Notiere dir neue Wörter und deren Verwendung im Satz.
 - **Beispiel:** Statt nur „nachhaltig“ zu lernen, merke dir: „Eine nachhaltige Entwicklung ist essenziell für die Zukunft.“
 
- 2. Wortfamilien erkunden
+#### 2. Wortfamilien erkunden
 
 - **Warum?** Viele C1-Wörter gehören zu Wortfamilien, die verschiedene Wortarten umfassen.
 - **Wie?** Wenn du ein Wort lernst, suche verwandte Formen: z. B. „überzeugen“ (Verb) → „überzeugend“ (Adjektiv) → „die Überzeugung“ (Nomen).
 - **Tipp:** Erstelle eine Tabelle für jede Wortfamilie.
 
- 3. Aktives Anwenden
+#### 3. Aktives Anwenden
 
 - **Warum?** C1 erfordert flüssige Anwendung, nicht nur passives Verstehen.
 - **Wie?** Schreibe kurze Texte (z. B. Meinungen zu aktuellen Themen) oder sprich mit Muttersprachlern (z. B. über Tandem-Apps) und nutze bewusst neue Wörter.
 - **Beispiel:** Schreibe einen Absatz über „die Herausforderung der Digitalisierung“ mit 5 neuen Wörtern.
 
- 4. Karteikarten mit Beispielsätzen
+#### 4. Karteikarten mit Beispielsätzen
 
 - **Warum?** Beispielsätze helfen, die Bedeutung und den Gebrauch zu verinnerlichen.
 - **Wie?** Nutze Apps wie Anki oder Quizlet. Schreibe auf die Vorderseite das Wort (z. B. „durchsetzen“) und auf die Rückseite einen Satz („Die Regierung will strengere Regeln durchsetzen“).
 - **Tipp:** Wiederhole täglich 10–20 Karten.
 
- 5. Thematische Listen erstellen
+#### 5. Thematische Listen erstellen
 
 - **Warum?** C1-Wörter treten oft in spezifischen Themenbereichen auf (z. B. Politik, Umwelt, Wirtschaft).
 - **Wie?** Wähle ein Thema, z. B. „Umweltschutz“, und sammle relevante Wörter: „nachhaltig“, „die Maßnahme“, „ausmerzen“. Lies Texte dazu und ergänze deine Liste.
 - **Ressource:** Bücher wie „Wortschatz und Strukturen C1“ oder Online-Vokabellisten (z. B. Goethe-Institut).
 
- 6. Hören und Nachsprechen
+#### 6. Hören und Nachsprechen
 
 - **Warum?** Aussprache und Intonation sind auf C1-Niveau wichtig.
 - **Wie?** Höre Podcasts (z. B. *Slow German* oder *Deutschlandfunk*) und sprich Sätze mit neuen Wörtern nach. Nimm dich auf und vergleiche.
 - **Beispiel:** Höre einen Beitrag über „die Verantwortung der Industrie“ und übe die Schlüsselwörter laut.
 
- 7. Regelmäßige Selbsttests
+#### 7. Regelmäßige Selbsttests
 
 - **Warum?** Wiederholung festigt das Wissen.
 - **Wie?** Teste dich wöchentlich: Schreibe Definitionen, bilde Sätze oder übersetze Wörter ins Englische/Französische etc.
