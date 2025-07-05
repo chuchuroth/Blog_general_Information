@@ -10,9 +10,9 @@ Hier ist eine Liste mit 100 Wörtern, die in der IT-Branche häufig verwendet we
 
 
 
-+ **Liste:  häufig benutzte Wörter in der IT-Branche**
+#### **Liste:  häufig benutzte Wörter in der IT-Branche**
 
-+ Verben (40)
+### Verben (40)
 
 1. **aktualisieren** – „Wir müssen die Software regelmäßig aktualisieren.“ (to update)
 2. **anpassen** – „Die App wurde an die neuen Anforderungen angepasst.“ (to adapt)
@@ -55,7 +55,7 @@ Hier ist eine Liste mit 100 Wörtern, die in der IT-Branche häufig verwendet we
 39. **rendern** – „Die Webseite wird im Browser gerendert.“ (to render)
 40. **streamen** – „Wir streamen die Daten live an die Nutzer.“ (to stream)
 
-+ Nomen (40)
+### Nomen (40)
 
 1. **die Anwendung** – „Die Anwendung läuft auf allen Geräten.“ (application)
 2. **das Backup** – „Hast du das Backup überprüft?“ (backup)
@@ -98,7 +98,7 @@ Hier ist eine Liste mit 100 Wörtern, die in der IT-Branche häufig verwendet we
 39. **die Sitzung** – „Die Sitzung wurde nach 30 Minuten beendet.“ (session)
 40. **der Treiber** – „Der Treiber für die Grafikkarte fehlt.“ (driver)
 
-+ Adjektive (20)
+### Adjektive (20)
 
 1. **agil** – „Wir arbeiten mit agilen Methoden.“ (agile)
 2. **automatisiert** – „Der Prozess ist jetzt automatisiert.“ (automated)
@@ -123,7 +123,7 @@ Hier ist eine Liste mit 100 Wörtern, die in der IT-Branche häufig verwendet we
 
 
 
-+ Hinweise zur Nutzung
+#### Hinweise zur Nutzung
 
 - **Kontext:** Diese Wörter sind typisch für IT-Dokumentationen, Meetings, Support-Tickets oder Entwickler-Chats.
 - **Lernen:** Erstelle Sätze mit den Wörtern, die zu deinem IT-Bereich passen (z. B. „Ich habe den Server konfiguriert“ für Admins oder „Der Code wurde optimiert“ für Entwickler).
