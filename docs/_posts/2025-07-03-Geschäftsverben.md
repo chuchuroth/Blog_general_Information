@@ -5,11 +5,11 @@ date:   2025-07-01 14:56:51 +0200
 categories: jekyll update
 ---
 
-# häufig verwendete Geschäftsverben auf Deutsch
+#### häufig verwendete Geschäftsverben auf Deutsch
 
 ---
 
- **1. Kommunikation & Interaktion**  
+### **1. Kommunikation & Interaktion**  
 1. **ansprechen** – Er hat den Kunden direkt auf das neue Produkt angesprochen.  
 2. **anrufen** – Ich rufe Sie morgen bezüglich des Vertrags an.  
 3. **antworten** – Bitte antworten Sie bis Freitag auf meine E-Mail.  
@@ -33,7 +33,7 @@ categories: jekyll update
 
 ---
 
- **2. Management & Entscheidungsfindung**  
+### **2. Management & Entscheidungsfindung**  
 21. **analysieren** – Die Marktdaten werden von unserem Team analysiert.  
 22. **anordnen** – Der Chef hat neue Maßnahmen zur Kostensenkung angeordnet.  
 23. **auswerten** – Wir müssen die Verkaufszahlen auswerten.  
@@ -57,7 +57,7 @@ categories: jekyll update
 
 ---
 
- **3. Finanzen & Buchhaltung**  
+### **3. Finanzen & Buchhaltung**  
 41. **abrechnen** – Die Reisekosten werden am Monatsende abgerechnet.  
 42. **abschätzen** – Wir müssen die Kosten für das Projekt genau abschätzen.  
 43. **anbieten** – Unser Unternehmen bietet maßgeschneiderte Lösungen an.  
@@ -81,7 +81,7 @@ categories: jekyll update
 
 ---
 
- **4. Vertrieb & Marketing**  
+### **4. Vertrieb & Marketing**  
 61. **abstimmen** – Die Marketingstrategie muss mit dem Vertrieb abgestimmt werden.  
 62. **akquirieren** – Unser Unternehmen akquiriert neue Kunden in Europa.  
 63. **anwerben** – Wir werben neue Mitarbeiter für unser Team an.  
@@ -105,7 +105,7 @@ categories: jekyll update
 
 ---
 
- **5. Allgemeine Geschäftstätigkeiten**  
+### **5. Allgemeine Geschäftstätigkeiten**  
 81. **abstimmen** – Wir müssen unsere Prozesse besser abstimmen.  
 82. **anpassen** – Die Software wurde an die Kundenbedürfnisse angepasst.  
 83. **aufbauen** – Wir bauen langfristige Kundenbeziehungen auf.  
