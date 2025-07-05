@@ -9,9 +9,9 @@ Hier ist eine Liste mit 100 deutschen Wörtern auf C1-Niveau, die im Alltagslebe
 
 
 
-+ **Liste: 100 C1-Wörter fürs Alltagsleben**
+#### **Liste: 100 C1-Wörter fürs Alltagsleben**
 
-+ Verben (40)
+### Verben (40)
 
 1. **abstimmen** – „Wir sollten abstimmen, wohin wir am Wochenende gehen.“ (to vote/decide together)
 2. **anpassen** – „Ich musste mich an den neuen Arbeitsrhythmus anpassen.“ (to adjust)
@@ -54,7 +54,7 @@ Hier ist eine Liste mit 100 deutschen Wörtern auf C1-Niveau, die im Alltagslebe
 39. **wiederholen** – „Könntest du das bitte wiederholen?“ (to repeat)
 40. **zurechtkommen** – „Ich komme mit dem neuen System gut zurecht.“ (to manage)
 
-+ Nomen (40)
+### Nomen (40)
 
 1. **die Abwechslung** – „Ich brauche mehr Abwechslung im Alltag.“ (variety)
 2. **die Anmeldung** – „Die Anmeldung für den Kurs ist morgen.“ (registration)
@@ -97,7 +97,7 @@ Hier ist eine Liste mit 100 deutschen Wörtern auf C1-Niveau, die im Alltagslebe
 39. **der Eindruck** – „Er hat einen positiven Eindruck gemacht.“ (impression)
 40. **der Vorschlag** – „Ich habe einen Vorschlag fürs Wochenende.“ (suggestion)
 
-+ Adjektive (20)
+### Adjektive (20)
 
 1. **angenehm** – „Das Wetter heute ist wirklich angenehm.“ (pleasant)
 2. **bequem** – „Diese Schuhe sind super bequem.“ (comfortable)
@@ -122,7 +122,7 @@ Hier ist eine Liste mit 100 deutschen Wörtern auf C1-Niveau, die im Alltagslebe
 
 ---
 
-+ Hinweise zur Nutzung
+#### Hinweise zur Nutzung
 
 - **Lernen:** Wähle täglich 10 Wörter aus, schreibe eigene Sätze und sprich sie laut aus.
 - **Anwendung:** Versuche, diese Wörter in Gesprächen oder Texten (z. B. E-Mails) zu verwenden.
