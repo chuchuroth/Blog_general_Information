@@ -9,7 +9,7 @@ categories: jekyll update
 Here are example sentences for each of the **100 business verbs** you requested:  
 
 
- **1. Communication & Interaction**  
+#### **1. Communication & Interaction**  
 1. **Address** – The manager will address the employees’ concerns in the next meeting.  
 2. **Advise** – I advise you to review the contract before signing it.  
 3. **Agree** – We agreed on the final terms of the partnership.  
@@ -33,7 +33,7 @@ Here are example sentences for each of the **100 business verbs** you requested:
 
 ---
 
- **2. Management & Decision-Making**  
+#### **2. Management & Decision-Making**  
 21. **Analyze** – We need to analyze the market trends before making a decision.  
 22. **Approve** – The manager approved the team’s travel request.  
 23. **Assign** – The supervisor assigned the new project to John.  
@@ -57,7 +57,7 @@ Here are example sentences for each of the **100 business verbs** you requested:
 
 ---
 
- **3. Financial & Accounting Actions**  
+#### **3. Financial & Accounting Actions**  
 41. **Allocate** – We need to allocate more funds for research and development.  
 42. **Audit** – The finance team will audit the company’s accounts.  
 43. **Balance** – He struggled to balance the company’s expenses and income.  
@@ -81,7 +81,7 @@ Here are example sentences for each of the **100 business verbs** you requested:
 
 ---
 
- **4. Sales & Marketing**  
+#### **4. Sales & Marketing**  
 61. **Advertise** – The company advertises its services on social media.  
 62. **Attract** – We need to attract more customers to our store.  
 63. **Brand** – The company is working to brand itself as a luxury provider.  
@@ -105,7 +105,7 @@ Here are example sentences for each of the **100 business verbs** you requested:
 
 ---
 
- **5. Operations & General Business**  
+#### **5. Operations & General Business**  
 81. **Adapt** – The company adapted to market changes quickly.  
 82. **Automate** – We automated our customer service process.  
 83. **Build** – They built a strong reputation in the industry.  
@@ -135,7 +135,7 @@ Here are **100 commonly used verbs** in **software engineering**, categorized by
 
 
 
- **1. Coding & Development**  
+#### **1. Coding & Development**  
 1. **Analyze** – Analyze the code for potential bugs.  
 2. **Build** – Build the project using the latest dependencies.  
 3. **Code** – He coded the login module from scratch.  
@@ -159,7 +159,7 @@ Here are **100 commonly used verbs** in **software engineering**, categorized by
 
 ---
 
- **2. System Administration & Infrastructure**  
+#### **2. System Administration & Infrastructure**  
 21. **Allocate** – Allocate more memory to the virtual machine.  
 22. **Automate** – Automate repetitive tasks using scripts.  
 23. **Backup** – Backup the database before making changes.  
@@ -183,7 +183,7 @@ Here are **100 commonly used verbs** in **software engineering**, categorized by
 
 ---
 
- **3. Software Architecture & Design**  
+#### **3. Software Architecture & Design**  
 41. **Abstract** – Abstract the logic into reusable components.  
 42. **Architect** – Architect a scalable microservices system.  
 43. **Define** – Define the requirements before starting development.  
@@ -197,7 +197,7 @@ Here are **100 commonly used verbs** in **software engineering**, categorized by
 
 ---
 
- **4. Testing & Quality Assurance**  
+#### **4. Testing & Quality Assurance**  
 51. **Assert** – Assert that the function returns the expected output.  
 52. **Automate** – Automate the regression tests using scripts.  
 53. **Benchmark** – Benchmark the application performance under load.  
@@ -211,7 +211,7 @@ Here are **100 commonly used verbs** in **software engineering**, categorized by
 
 ---
 
- **5. Collaboration & Project Management**  
+#### **5. Collaboration & Project Management**  
 61. **Assign** – Assign the bug fix to a junior developer.  
 62. **Brainstorm** – The team brainstormed new features for the product.  
 63. **Collaborate** – Collaborate with designers to refine the UI.  
@@ -225,7 +225,7 @@ Here are **100 commonly used verbs** in **software engineering**, categorized by
 
 ---
 
- **6. Security & Compliance**  
+#### **6. Security & Compliance**  
 71. **Authenticate** – Authenticate users using OAuth.  
 72. **Authorize** – Authorize admin access only for specific users.  
 73. **Encrypt** – Encrypt sensitive data to prevent breaches.  
@@ -239,7 +239,7 @@ Here are **100 commonly used verbs** in **software engineering**, categorized by
 
 ---
 
- **7. DevOps & Continuous Integration**  
+#### **7. DevOps & Continuous Integration**  
 81. **Automate** – Automate the deployment pipeline.  
 82. **Build** – Build the project using a CI/CD pipeline.  
 83. **Cache** – Cache frequently accessed data to improve speed.  
@@ -253,7 +253,7 @@ Here are **100 commonly used verbs** in **software engineering**, categorized by
 
 ---
 
- **8. Data & Machine Learning**  
+#### **8. Data & Machine Learning**  
 91. **Analyze** – Analyze user behavior patterns.  
 92. **Classify** – Classify customer feedback into categories.  
 93. **Cluster** – Cluster similar data points for better insights.  
