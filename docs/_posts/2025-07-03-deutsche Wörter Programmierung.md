@@ -10,9 +10,9 @@ Hier ist eine Liste mit 100 Wörtern, die speziell in der Programmierung häufig
 
 
 
-+ **Liste: 100 häufig benutzte Wörter in der Programmierung**
+#### **Liste: 100 häufig benutzte Wörter in der Programmierung**
 
-+ Verben (40)
+### Verben (40)
 
 1. **abfragen** – „Die Funktion fragt die Datenbank ab.“ (to query)
 2. **anpassen** – „Ich habe den Code an die neuen Anforderungen angepasst.“ (to adapt)
@@ -55,7 +55,7 @@ Hier ist eine Liste mit 100 Wörtern, die speziell in der Programmierung häufig
 39. **validieren** – „Die Eingaben werden vor der Speicherung validiert.“ (to validate)
 40. **versionieren** – „Der Code wird mit Git versioniert.“ (to version)
 
-+ Nomen (40)
+### Nomen (40)
 
 1. **die Anweisung** – „Die Anweisung führt eine Aktion aus.“ (instruction)
 2. **das Argument** – „Die Funktion erwartet zwei Argumente.“ (argument)
@@ -98,7 +98,7 @@ Hier ist eine Liste mit 100 Wörtern, die speziell in der Programmierung häufig
 39. **die Unit-Test** – „Der Unit-Test prüft die Funktion.“ (unit test)
 40. **die Version** – „Wir arbeiten an Version 2.0.“ (version)
 
-+ Adjektive (20)
+### Adjektive (20)
 
 1. **abstrakt** – „Die Klasse ist abstrakt und kann nicht instanziert werden.“ (abstract)
 2. **dynamisch** – „Die Webseite ist dynamisch gestaltet.“ (dynamic)
@@ -123,7 +123,7 @@ Hier ist eine Liste mit 100 Wörtern, die speziell in der Programmierung häufig
 
 ---
 
-+ Hinweise zur Nutzung
+#### Hinweise zur Nutzung
 
 - **Kontext:** Diese Wörter sind typisch für Code-Kommentare, Dokumentationen, Team-Meetings oder Git-Commits (z. B. „Bug korrigiert“ oder „Funktion optimiert“).
 - **Lernen:** Übe sie mit praktischen Beispielen, z. B. schreibe 5 Sätze mit Begriffen wie „debuggen“, „implementieren“ oder „Algorithmus“ in deinem aktuellen Projekt.
