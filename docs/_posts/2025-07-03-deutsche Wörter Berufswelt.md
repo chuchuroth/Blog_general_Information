@@ -10,9 +10,9 @@ Im Arbeitsfeld (Berufswelt) gibt es viele Wörter auf C1-Niveau, die häufiger v
 
 
 
-+ ** Liste:  C1-Wörter im Arbeitsfeld**
+#### ** Liste:  C1-Wörter im Arbeitsfeld**
 
-+ Verben (40)
+### Verben (40)
 
 1. **abwickeln** – „Wir müssen die Bestellung schnell abwickeln.“ (to process)
 2. **anbieten** – „Die Firma bietet flexible Arbeitszeiten an.“ (to offer)
@@ -55,7 +55,7 @@ Im Arbeitsfeld (Berufswelt) gibt es viele Wörter auf C1-Niveau, die häufiger v
 39. **zusammenarbeiten** – „Wir arbeiten eng mit dem Vertrieb zusammen.“ (to collaborate)
 40. **zustimmen** – „Ich stimme dem Plan zu.“ (to agree)
 
-+ Nomen (40)
+### Nomen (40)
 
 1. **die Abteilung** – „Ich arbeite in der Marketing-Abteilung.“ (department)
 2. **die Anforderung** – „Die Stelle hat hohe Anforderungen.“ (requirement)
@@ -98,7 +98,7 @@ Im Arbeitsfeld (Berufswelt) gibt es viele Wörter auf C1-Niveau, die häufiger v
 39. **der Kollege** – „Mein Kollege hilft mir oft.“ (colleague)
 40. **der Vorgesetzte** – „Mein Vorgesetzter ist sehr streng.“ (superior)
 
-+ Adjektive (20)
+### Adjektive (20)
 
 1. **anspruchsvoll** – „Die Aufgabe ist ziemlich anspruchsvoll.“ (demanding)
 2. **effizient** – „Wir arbeiten effizient zusammen.“ (efficient)
@@ -123,7 +123,7 @@ Im Arbeitsfeld (Berufswelt) gibt es viele Wörter auf C1-Niveau, die häufiger v
 
 ---
 
-+ Hinweise zur Nutzung
+#### Hinweise zur Nutzung
 
 - **Kontext:** Diese Wörter sind ideal für formelle E-Mails (z. B. „Ich bitte um Rückmeldung“), Besprechungen („Ich schlage vor…“) oder Arbeitsberichte („Die Maßnahmen wurden umgesetzt“).
 - **Lernen:** Übe sie in typischen Arbeitssituationen, z. B. indem du eine E-Mail oder einen kurzen Bericht mit 10 dieser Wörter schreibst.
