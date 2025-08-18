@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Postbotin"
+date:   2025-08-18
+categories: jekyll update
+---
+
+
 # 1. Paket abgeben (Standard)
 Postbotin: Guten Morgen! Ich habe ein Paket für Sie.
 Kunde: Ah, danke. Muss ich unterschreiben?
