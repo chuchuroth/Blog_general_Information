@@ -53,124 +53,124 @@ Postbotin: Ah, danke schön!
 
 # Allgemein beim Arbeiten
 
-Guten Morgen!
-Hallo, die Post ist da.
-Ich habe ein Paket für Sie.
-Bitte hier unterschreiben.
-Vielen Dank!
-Einen schönen Tag noch!
-Auf Wiedersehen!
-Entschuldigung, darf ich kurz vorbei?
-Ich muss hier durch.
-Ich bringe die Post.
++ Guten Morgen!
++ Hallo, die Post ist da.
++ Ich habe ein Paket für Sie.
++ Bitte hier unterschreiben.
++ Vielen Dank!
++ Einen schönen Tag noch!
++ Auf Wiedersehen!
++ Entschuldigung, darf ich kurz vorbei?
++ Ich muss hier durch.
++ Ich bringe die Post.
 
 # Pakete zustellen
-Ich habe ein Einschreiben für Sie.
-Bitte einen Ausweis zeigen.
-Das Paket ist für Ihre Nachbarn.
-Ich lege es vor die Tür.
-Ich stelle es in die Paketbox.
-Darf ich es hier abstellen?
-Das Paket ist leider zu groß für den Briefkasten.
-Ich habe einen Zettel im Briefkasten hinterlassen.
-Sie können das Paket in der Filiale abholen.
-Die Filiale ist ab morgen geöffnet.
++ Ich habe ein Einschreiben für Sie.
++ Bitte einen Ausweis zeigen.
++ Das Paket ist für Ihre Nachbarn.
++ Ich lege es vor die Tür.
++ Ich stelle es in die Paketbox.
++ Darf ich es hier abstellen?
++ Das Paket ist leider zu groß für den Briefkasten.
++ Ich habe einen Zettel im Briefkasten hinterlassen.
++ Sie können das Paket in der Filiale abholen.
++ Die Filiale ist ab morgen geöffnet.
 
 # Wenn niemand zu Hause ist
-Niemand war da.
-Ich habe es bei den Nachbarn abgegeben.
-Bitte in der Filiale abholen.
-Hier ist die Benachrichtigung.
-Tut mir leid, ich konnte es nicht zustellen.
++ Niemand war da.
++ Ich habe es bei den Nachbarn abgegeben.
++ Bitte in der Filiale abholen.
++ Hier ist die Benachrichtigung.
++ Tut mir leid, ich konnte es nicht zustellen.
 
 # Höflichkeit & Smalltalk
-Wie geht es Ihnen?
-Alles gut bei Ihnen?
-Schönes Wetter heute!
-Heute ist es sehr kalt.
-Heute ist es sehr warm.
-Schönen Feierabend!
-Bis morgen!
-Danke, gleichfalls!
-Einen schönen Sonntag!
-Frohe Feiertage!
++ Wie geht es Ihnen?
++ Alles gut bei Ihnen?
++ Schönes Wetter heute!
++ Heute ist es sehr kalt.
++ Heute ist es sehr warm.
++ Schönen Feierabend!
++ Bis morgen!
++ Danke, gleichfalls!
++ Einen schönen Sonntag!
++ Frohe Feiertage!
 
 # Wenn du etwas fragen musst
-Können Sie bitte unterschreiben?
-Sind Sie Frau/Herr …?
-Kann ich es hier lassen?
-Gibt es einen Briefkasten für Rücksendungen?
-Darf ich kurz klingeln?
-Wohnt Herr/Frau … hier?
-Haben Sie eine Vollmacht?
-Wo finde ich den Eingang?
-Ist das die richtige Adresse?
-Können Sie bitte die Tür öffnen?
++ Können Sie bitte unterschreiben?
++ Sind Sie Frau/Herr …?
++ Kann ich es hier lassen?
++ Gibt es einen Briefkasten für Rücksendungen?
++ Darf ich kurz klingeln?
++ Wohnt Herr/Frau … hier?
++ Haben Sie eine Vollmacht?
++ Wo finde ich den Eingang?
++ Ist das die richtige Adresse?
++ Können Sie bitte die Tür öffnen?
 
 # Arbeitssprache & Organisation
-Ich bin von der Post.
-Das ist ein Nachnahme-Paket.
-Bitte den Betrag bezahlen.
-Das Paket ist beschädigt.
-Ich habe es dokumentiert.
-Der Briefkasten war voll.
-Ich konnte den Brief nicht einwerfen.
-Ich mache eine Notiz.
-Bitte nehmen Sie das Paket entgegen.
-Ich habe mehrere Sendungen für Sie.
++ Ich bin von der Post.
++ Das ist ein Nachnahme-Paket.
++ Bitte den Betrag bezahlen.
++ Das Paket ist beschädigt.
++ Ich habe es dokumentiert.
++ Der Briefkasten war voll.
++ Ich konnte den Brief nicht einwerfen.
++ Ich mache eine Notiz.
++ Bitte nehmen Sie das Paket entgegen.
++ Ich habe mehrere Sendungen für Sie.
 
 # Kontakt mit Nachbarn
-Entschuldigung, können Sie ein Paket annehmen?
-Es ist für Ihre Nachbarin.
-Danke für Ihre Hilfe!
-Ich bringe gleich noch eins.
-Ich schreibe den Namen auf.
++ Entschuldigung, können Sie ein Paket annehmen?
++ Es ist für Ihre Nachbarin.
++ Danke für Ihre Hilfe!
++ Ich bringe gleich noch eins.
++ Ich schreibe den Namen auf.
 
 # Unterwegs
-Ich bin gleich da.
-Ich habe mich verfahren.
-Die Straße ist gesperrt.
-Ich brauche die Hausnummer.
-Bitte wiederholen Sie.
-Ich habe es nicht verstanden.
-Sprechen Sie bitte etwas langsamer.
-Danke für die Auskunft.
-Entschuldigung für die Verspätung.
-Ich komme gleich zurück.
++ Ich bin gleich da.
++ Ich habe mich verfahren.
++ Die Straße ist gesperrt.
++ Ich brauche die Hausnummer.
++ Bitte wiederholen Sie.
++ Ich habe es nicht verstanden.
++ Sprechen Sie bitte etwas langsamer.
++ Danke für die Auskunft.
++ Entschuldigung für die Verspätung.
++ Ich komme gleich zurück.
 
 # Freundlich bleiben
-Kein Problem!
-Das macht nichts.
-Alles in Ordnung.
-Gern geschehen.
-Sehr freundlich, danke!
-Bitte schön.
-Entschuldigung für die Störung.
-Einen schönen Tag wünsche ich!
-Viel Erfolg!
-Passen Sie gut auf sich auf!
++ Kein Problem!
++ Das macht nichts.
++ Alles in Ordnung.
++ Gern geschehen.
++ Sehr freundlich, danke!
++ Bitte schön.
++ Entschuldigung für die Störung.
++ Einen schönen Tag wünsche ich!
++ Viel Erfolg!
++ Passen Sie gut auf sich auf!
 
 # Spezielle Situationen
-Das ist ein Einschreiben mit Rückschein.
-Bitte hier unterschreiben und zurückgeben.
-Sie brauchen einen Stift?
-Ich habe keinen Stift dabei.
-Bitte Datum dazuschreiben.
-Es ist eine Nachnahme-Sendung.
-Bitte Betrag passend zahlen.
-Sie können auch mit Karte zahlen.
-Bitte Maske tragen (falls nötig).
-Das Paket ist schwer, bitte vorsichtig.
++ Das ist ein Einschreiben mit Rückschein.
++ Bitte hier unterschreiben und zurückgeben.
++ Sie brauchen einen Stift?
++ Ich habe keinen Stift dabei.
++ Bitte Datum dazuschreiben.
++ Es ist eine Nachnahme-Sendung.
++ Bitte Betrag passend zahlen.
++ Sie können auch mit Karte zahlen.
++ Bitte Maske tragen (falls nötig).
++ Das Paket ist schwer, bitte vorsichtig.
 
 # Am Jahresende
-Frohe Weihnachten!
-Guten Rutsch ins neue Jahr!
-Alles Gute für 2026!
-Viel Gesundheit!
-Viel Glück!
++ Frohe Weihnachten!
++ Guten Rutsch ins neue Jahr!
++ Alles Gute für 2026!
++ Viel Gesundheit!
++ Viel Glück!
 
 # Wenn du etwas nicht verstehst
-Können Sie das bitte wiederholen?
-Können Sie langsam sprechen?
-Bitte schreiben Sie es auf.
-Danke für Ihr Verständnis.
++ Können Sie das bitte wiederholen?
++ Können Sie langsam sprechen?
++ Bitte schreiben Sie es auf.
++ Danke für Ihr Verständnis.
